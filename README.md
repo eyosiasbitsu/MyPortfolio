@@ -10,7 +10,7 @@ This is my personal portfolio website that showcases my professional journey as 
 
 ## Screenshots
 
-![Portfolio multidevices mockup](https://drive.google.com/file/d/1jhQMoEWb_5EDB0wWAISBTPF7-WhbJP72/view?usp=sharing)
+![Portfolio multidevices mockup](./public/Screenshot.png))
 
 ## Core Dependencies
 
