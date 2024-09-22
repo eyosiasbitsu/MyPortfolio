@@ -10,7 +10,7 @@ This is my personal portfolio website that showcases my professional journey as 
 
 ## Screenshots
 
-![Portfolio multidevices mockup](https://user-images.githubusercontent.com/4708484/135478774-68358e78-a50c-4cc4-8e84-29874ed549ac.png)
+![Portfolio multidevices mockup](https://drive.google.com/file/d/1jhQMoEWb_5EDB0wWAISBTPF7-WhbJP72/view?usp=sharing)
 
 ## Core Dependencies
 
@@ -19,7 +19,6 @@ This is my personal portfolio website that showcases my professional journey as 
 - [Material UI](https://mui.com/) - A React component-based design system for modern web development.
 - [Formik](https://www.npmjs.com/package/formik) - A form library for React to manage forms efficiently.
 - [Yup](https://www.npmjs.com/package/yup) - A JavaScript schema builder for value parsing and validation, used with Formik.
-- [OpenAI API](https://beta.openai.com/docs/) - Used for building intelligent chatbots like personal listing assistants and product recommendation systems.
 - [SendGrid/Mail](https://www.npmjs.com/package/@sendgrid/mail) - Send emails via JavaScript.
 - [React Icons](https://www.npmjs.com/package/react-icons) - Include popular icons in your React projects.
 
