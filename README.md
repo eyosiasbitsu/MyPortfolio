@@ -34,4 +34,4 @@ Led a team to build a backend for a student-centric learning app, resulting in i
 
 ## Contact
 
-For more information or inquiries, please visit [www.fetsumabyu.space](https://www.fetsumabyu.space) or email me at fitsumabyu914@gmail.com.
+For more information or inquiries, please visit [www.fetsumabyu.space](https://fetsumabyu.space/) or email me at fitsumabyu914@gmail.com.
